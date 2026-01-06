@@ -4,6 +4,6 @@
 Comprehensive **MERN Stack** training for 3rd year CSE students. Covers React, Node.js, Express, MongoDB with full-stack deployment.
 
 ## 📅 Quick Info
-- **Location:** Techno NJR, Jaipur
+- **Location:** Techno NJR, Udaipur
 - **Duration:** January 2026
 - **Target:** CSE 3rd Year Students
