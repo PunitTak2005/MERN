@@ -1,0 +1,23 @@
+async function dataSaverCaller() {
+  try {
+    const res1 = await dataSaver("data1");
+    console.log(res1);
+
+    const res2 = await dataSaver("data2");
+    console.log(res2);
+
+    const res3 = await dataSaver("data3");
+    console.log(res3);
+
+    const res4 = await dataSaver("data4");
+    console.log(res4);
+
+    const res5 = await dataSaver("data5");
+    console.log(res5);
+
+    const res6 = await dataSaver("data6");
+    console.log(res6);
+  } catch (err) {
+    console.log(err);
+  }
+}
